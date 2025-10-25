@@ -1,6 +1,3 @@
-// Adaptive Traffic Light Controller with Ambulance Detection
-// Fixed for Standard Verilog - Vivado Compatible
-// All syntax errors corrected
 
 module traffic_light_controller_adaptive(
     input clk,
